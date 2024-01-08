@@ -12,7 +12,6 @@ Before running the application, make sure you have the following installed:
 Python (version 3.7 or later)
 Pip (Python package installer)
 Install the required Python packages using:
-------------------------------------------
 pip install -r requirements.txt
 
 Configuration
