@@ -52,6 +52,7 @@ Click the "Retrieve YouTube Data and Store in MongoDB" button to fetch and store
 Migrate to SQL:
 --------------
 After retrieving data for multiple channels, click the "Migrate to SQL" button to migrate selected channels to a SQL database.
+
 Search and Retrieve from SQL:
 ----------------------------
 Use the sidebar to select search options like "All Channels," "Channel by ID," "Channel with Videos," or "Specific Video."
